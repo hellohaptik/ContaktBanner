@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ribbon1",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "info",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": true
+    },
+    "pages": ["/"],
+    "cas": ["Haptik", "Singapore", "Jio"],
+    "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
+    "filters": {
+      "agentChatUserRole": ["Admin"]
+    },
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  },
+  {
+    "id": "ribbon2",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "error",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": true
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list",
+      "iframe",
+      "/"
+    ],
+    "cas": ["Haptik", "Singapore", "Jio"],
+    "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
+    "filters": {
+      "agentChatUserRole": ["Admin"]
+    },
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  },
+  {
+    "id": "ribbon3",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "warning",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": true
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list",
+      "iframe",
+      "/"
+    ],
+    "cas": ["Haptik", "Singapore", "Jio"],
+    "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
+    "filters": {
+      "agentChatUserRole": ["Admin"]
+    },
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  },
+  {
+    "id": "ribbon4",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "success",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": false
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list",
+      "iframe",
+      "bots",
+      "/"
+    ],
+    "cas": ["Haptik", "Singapore", "Jio"],
+    "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
+    "filters": {
+      "agentChatUserRole": ["Admin"]
+    },
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  }
+]
