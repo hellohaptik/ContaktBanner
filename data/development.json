@@ -12,7 +12,7 @@
       "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
       "openInNewTab": true
     },
-    "pages": ["/"],
+    "pages": ["/", "/athena"],
     "cas": ["Haptik", "Singapore", "Jio"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
     "filters": {
@@ -51,7 +51,8 @@
       "^/notification$",
       "/contacts/list",
       "iframe",
-      "/"
+      "/",
+      "/athena"
     ],
     "cas": ["Haptik", "Singapore", "Jio"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
@@ -91,7 +92,8 @@
       "^/notification$",
       "/contacts/list",
       "iframe",
-      "/"
+      "/",
+      "/athena"
     ],
     "cas": ["Haptik", "Singapore", "Jio"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
@@ -132,7 +134,8 @@
       "/contacts/list",
       "iframe",
       "bots",
-      "/"
+      "/",
+      "/athena"
     ],
     "cas": ["Haptik", "Singapore", "Jio"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
