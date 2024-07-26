@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ribbon1_staging",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "info",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": true
+    },
+    "cas": ["haptik"],
+    "pages": ["/mogambo"],
+    "platform": "CS",
+    "closeLimit": 3,
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18,
+      "minute": 15
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  },
+  {
+    "id": "ribbon2_staging",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "error",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": true
+    },
+    "closeLimit": 3,
+    "pages": ["/athena"],
+    "cas": ["haptik"],
+    "platform": "SAC",
+    "filters": {
+      "agentChatUserRole": ["Admin"]
+    },
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  },
+  {
+    "id": "ribbon3_staging",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "warning",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": true
+    },
+    "closeLimit": 3,
+    "pages": ["/dashboard"],
+    "cas": ["haptik"],
+    "platform": "IA",
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  },
+  {
+    "id": "ribbon4",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot. Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "type": "success",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
+      "openInNewTab": false
+    },
+    "pages": [],
+    "cas": ["haptik"],
+    "platform": "",
+    "expiresOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 26,
+      "hour": 18
+    },
+    "startAt": {
+      "year": 2024,
+      "month": 7,
+      "date": 16,
+      "hour": 15,
+      "minute": 8
+    }
+  }
+]
