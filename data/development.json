@@ -12,8 +12,7 @@
       "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
       "openInNewTab": true
     },
-    "pages": ["/", "/athena"],
-    "cas": ["Haptik", "Singapore", "Jio"],
+    "cas": ["haptik", "singapore", "jio", "devdiresh"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
     "filters": {
       "agentChatUserRole": ["Admin"]
@@ -22,7 +21,8 @@
       "year": 2024,
       "month": 7,
       "date": 26,
-      "hour": 18
+      "hour": 14,
+      "minute": 15
     },
     "startAt": {
       "year": 2024,
@@ -45,6 +45,7 @@
       "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
       "openInNewTab": true
     },
+    "closeLimit": 3,
     "pages": [
       "/inbox",
       "/templates/list",
@@ -54,7 +55,7 @@
       "/",
       "/athena"
     ],
-    "cas": ["Haptik", "Singapore", "Jio"],
+    "cas": ["haptik", "singapore", "jio", "devdiresh"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
     "filters": {
       "agentChatUserRole": ["Admin"]
@@ -86,6 +87,7 @@
       "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
       "openInNewTab": true
     },
+    "closeLimit": 2,
     "pages": [
       "/inbox",
       "/templates/list",
@@ -95,7 +97,7 @@
       "/",
       "/athena"
     ],
-    "cas": ["Haptik", "Singapore", "Jio"],
+    "cas": ["haptik", "singapore", "jio", "devdiresh"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
     "filters": {
       "agentChatUserRole": ["Admin"]
@@ -137,7 +139,7 @@
       "/",
       "/athena"
     ],
-    "cas": ["Haptik", "Singapore", "Jio"],
+    "cas": ["haptik", "singapore", "jio", "devdiresh"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
     "filters": {
       "agentChatUserRole": ["Admin"]
