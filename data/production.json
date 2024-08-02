@@ -1,10 +1,10 @@
 [
   {
     "id": "ribbon1",
-    "text": "We are experiencing issues with chats landing on the platform. Our teams are actively looking into it.",
-    "type": "error",
+    "text": "We have now fully recovered and all of our systems are back to normal. Bot and agent chats should be working properly.",
+    "type": "info",
     "theme": {
-      "bg": "#FF0000",
+      "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "cas": ["haptik"],
