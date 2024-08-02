@@ -8,7 +8,7 @@
       "color": "#ffffff"
     },
     "cas": ["haptik"],
-    "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
+    "platform": "Intelligent Analytics",
     "filters": {
       "agentChatUserRole": ["Admin"]
     },
