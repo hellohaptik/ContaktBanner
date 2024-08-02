@@ -2,7 +2,7 @@
   {
     "id": "ribbon1",
     "text": "We are experiencing issues with chats landing on the platform. Our teams are actively looking into it.",
-    "type": "info",
+    "type": "error",
     "theme": {
       "bg": "#FF0000",
       "color": "#ffffff"
