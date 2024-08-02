@@ -4,7 +4,7 @@
     "text": "We are experiencing issues with chats landing on the platform. Our teams are actively looking into it.",
     "type": "info",
     "theme": {
-      "bg": "#3C74F3",
+      "bg": "#FF0000",
       "color": "#ffffff"
     },
     "cas": ["haptik"],
