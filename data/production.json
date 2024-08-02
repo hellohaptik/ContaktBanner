@@ -1,33 +1,28 @@
 [
   {
     "id": "ribbon1",
-    "text": "Banner Text here",
+    "text": "We are experiencing issues with chats landing on the platform. Our teams are actively looking into it.",
     "type": "info",
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
     },
-    "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg",
-      "openInNewTab": true
-    },
-    "cas": ["haptik", "singapore", "jio", "devdiresh"],
+    "cas": ["haptik"],
     "platform": "Conversation Studio/Agent Chat/Intelligent Analytics",
     "filters": {
       "agentChatUserRole": ["Admin"]
     },
     "expiresOn": {
       "year": 2024,
-      "month": 7,
-      "date": 26,
+      "month": 8,
+      "date": 3,
       "hour": 14,
       "minute": 15
     },
     "startAt": {
       "year": 2024,
-      "month": 7,
-      "date": 16,
+      "month": 8,
+      "date": 1,
       "hour": 15,
       "minute": 8
     }
