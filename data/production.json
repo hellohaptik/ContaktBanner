@@ -22,30 +22,5 @@
       "date": 1,
       "hour": 15
     }
-  },
-  {
-    "id": "ribbon2",
-    "text": "We have now fully recovered and all of our systems are back to normal. Bot and agent chats should be working properly.",
-    "type": "info",
-    "theme": {
-      "bg": "#3C74F3",
-      "color": "#ffffff"
-    },
-    "cas": ["haptik"],
-    "pages": ["/dashboard", "athena"],
-    "platform": "IA",
-    "expiresOn": {
-      "year": 2024,
-      "month": 8,
-      "date": 6,
-      "hour": 0,
-      "minute": 35
-    },
-    "startAt": {
-      "year": 2024,
-      "month": 8,
-      "date": 1,
-      "hour": 15
-    }
   }
 ]
