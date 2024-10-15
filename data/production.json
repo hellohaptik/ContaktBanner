@@ -1,26 +1,26 @@
 [
   {
     "id": "ribbon1",
-    "text": "We have now fully recovered and all of our systems are back to normal. Bot and agent chats should be working properly.",
-    "type": "info",
+    "text": "We're experiencing intermittent issues with WhatsApp bots not responding. We're collaborating with Meta to investigate and resolve the problem.",
+    "type": "error",
     "theme": {
-      "bg": "#3C74F3",
+      "bg": "#ff0000",
       "color": "#ffffff"
     },
     "cas": ["haptik"],
     "platform": "IA",
     "expiresOn": {
       "year": 2024,
-      "month": 8,
-      "date": 1,
-      "hour": 14,
-      "minute": 15
+      "month": 10,
+      "date": 16,
+      "hour": 00,
+      "minute": 00
     },
     "startAt": {
       "year": 2024,
-      "month": 8,
+      "month": 1,
       "date": 1,
-      "hour": 15
+      "hour": 1
     }
   }
 ]
