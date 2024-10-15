@@ -1,7 +1,7 @@
 [
   {
     "id": "ribbon1",
-    "text": "We're experiencing intermittent issues with WhatsApp bots not responding. We're collaborating with Meta to investigate and resolve the problem.",
+    "text": "We're experiencing intermittent issues with WhatsApp bots not responding. We're collaborating with Meta to investigate and resolve the problem. You can find the latest updates on the issue from the Meta team here - https://metastatus.com/whatsapp-business-api",
     "type": "error",
     "theme": {
       "bg": "#ff0000",
