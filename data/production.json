@@ -1,26 +1,27 @@
 [
   {
     "id": "ribbon1",
-    "text": "We're experiencing intermittent issues with WhatsApp bots not responding. We're collaborating with Meta to investigate and resolve the problem. You can find the latest updates on the issue from the Meta team here - https://metastatus.com/whatsapp-business-api",
+    "text": "We're experiencing intermittent slowness in bot responses due to a Cloudflare-related issue. Some bots may respond slowly or intermittently. We are working closely with the Cloudflare team to resolve the issue as soon as possible.",
     "type": "error",
     "theme": {
       "bg": "#ff0000",
       "color": "#ffffff"
     },
-    "cas": ["haptik"],
+    "cas": ["haptik","jio"],
     "platform": "IA",
     "expiresOn": {
-      "year": 2024,
-      "month": 9,
-      "date": 16,
-      "hour": 1,
-      "minute": 10
+      "year": 2025,
+      "month": 11,
+      "date": 18,
+      "hour": 22,
+      "minute": 0
     },
     "startAt": {
-      "year": 2024,
-      "month": 1,
-      "date": 1,
-      "hour": 1
+      "year": 2025,
+      "month": 11,
+      "date": 18,
+      "hour": 17,
+      "minute": 43
     }
   }
 ]
