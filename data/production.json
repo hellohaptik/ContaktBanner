@@ -1,7 +1,7 @@
 [
   {
     "id": "ribbon1",
-    "text": "We're experiencing intermittent slowness in bot responses due to a Cloudflare-related issue. Some bots may respond slowly or intermittently. We are working closely with the Cloudflare team to resolve the issue as soon as possible.",
+    "text": "<b><span style=\"color: red\">IMPORTANT :</span></b> Scheduled maintenance on Haptik platform - <b>28th January 2026, 2:30am IST</b>.  Please note that the Haptik platform services will be unavailable between <b>2:30am to 4am IST on 28th Jan</b>…",
     "type": "error",
     "theme": {
       "bg": "#ff0000",
@@ -10,18 +10,18 @@
     "cas": ["haptik","jio"],
     "platform": "IA",
     "expiresOn": {
-      "year": 2025,
-      "month": 11,
-      "date": 18,
-      "hour": 22,
+      "year": 2026,
+      "month": 1,
+      "date": 28,
+      "hour": 4,
       "minute": 0
     },
     "startAt": {
-      "year": 2025,
-      "month": 11,
-      "date": 18,
+      "year": 2026,
+      "month": 1,
+      "date": 22,
       "hour": 17,
-      "minute": 43
+      "minute": 10
     }
   }
 ]
