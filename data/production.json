@@ -1,7 +1,7 @@
 [
   {
     "id": "ribbon1",
-    "text": "<b><span style=\"color: red\">IMPORTANT :</span></b> Scheduled maintenance on Haptik platform - <b>28th January 2026, 2:30am IST</b>.  Please note that the Haptik platform services will be unavailable between <b>2:30am to 4am IST on 28th Jan</b>…",
+    "text": "<b>IMPORTANT :</b> Scheduled maintenance on Haptik platform - <b>28th January 2026, 2:30am IST</b>.  Please note that the Haptik platform services will be unavailable between <b>2:30am to 4am IST on 28th Jan</b>…",
     "type": "error",
     "theme": {
       "bg": "#ff0000",
