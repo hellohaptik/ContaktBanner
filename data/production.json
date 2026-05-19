@@ -1,7 +1,7 @@
 [
   {
     "id": "ribbon1",
-    "text": "IMPORTANT : WhatsApp is currently facing an issue affecting WhatsBots. We are coordinating with Meta and will share updates as soon as possible.",
+    "text": "IMPORTANT : Meta is currently facing an issue affecting WhatsApp bots. We are coordinating with Meta and will share updates as soon as possible.",
     "type": "error",
     "theme": {
       "bg": "#ff0000",
