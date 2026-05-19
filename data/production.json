@@ -1,7 +1,7 @@
 [
   {
     "id": "ribbon1",
-    "text": "IMPORTANT : Scheduled maintenance on Haptik platform - 28th January 2026, 2:30am IST. Please note that the Haptik platform services will be unavailable between 2:30am to 4am IST on 28th Jan.",
+    "text": "IMPORTANT : WhatsApp is currently facing an issue affecting WhatsBots. We are coordinating with Meta and will share updates as soon as possible.",
     "type": "error",
     "theme": {
       "bg": "#ff0000",
@@ -11,15 +11,15 @@
     "platform": "IA",
     "expiresOn": {
       "year": 2026,
-      "month": 1,
-      "date": 28,
+      "month": 5,
+      "date": 20,
       "hour": 4,
       "minute": 0
     },
     "startAt": {
       "year": 2026,
-      "month": 1,
-      "date": 22,
+      "month": 5,
+      "date": 18,
       "hour": 17,
       "minute": 10
     }
